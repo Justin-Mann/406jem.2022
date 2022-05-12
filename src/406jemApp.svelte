@@ -56,5 +56,9 @@
 		main {
 			max-width: none;
 		}
+
+		main img.bigLogo {
+			filter: blur(1px);
+		}
 	}
 </style>
