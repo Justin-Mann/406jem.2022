@@ -5,6 +5,7 @@
 <main>
 	<h1>Hello World!</h1>
 	<p>Stay Tuned.. The new version of <i><b>{appname}</b></i> using Svelte and a couple event driven microservices will be here soon.</p>
+	<img src={biglogoimagepath} class="bigLogo" alt="Logo" />
 </main>
 
 <style>
