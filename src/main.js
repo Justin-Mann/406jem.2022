@@ -1,9 +1,9 @@
-import App from './App.svelte';
+import App from './406jemApp.svelte';
 
 const app = new App({
 	target: document.body,
 	props: {
-		name: 'world'
+		appname: '406jem.us'
 	}
 });
 
